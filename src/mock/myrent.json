@@ -1,0 +1,38 @@
+[
+  {
+    "describe": "1",
+    "title": "防雨防晒凉棚",
+    "url": "../asset/uploads/myrent/1.jpg",
+    "price": "15",
+    "yajin": "126",
+    "brand": "思莱达",
+    "newing": "九成新"
+  },
+  {
+    "describe": "2",
+    "title": "Insta360 Ace Pro2",
+    "url": "../asset/uploads/myrent/2.jpg",
+    "price": "20",
+    "yajin": "1850",
+    "brand": "影石",
+    "newing": "全新"
+  },
+  {
+    "describe": "3",
+    "title": "任天堂Switch",
+    "url": "../asset/uploads/myrent/3.jpg",
+    "price": "5",
+    "yajin": "2000",
+    "brand": "任天堂",
+    "newing": "微磨损"
+  },
+  {
+    "describe": "4",
+    "title": "露营设备出租",
+    "url": "../asset/uploads/myrent/4.jpg",
+    "price": "35",
+    "yajin": "200",
+    "brand": "其他",
+    "newing": "九成新"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "describe": 1,
+    "title": "传祺,出租",
+    "url": "../../asset/uploads/goodrent/1.jpg",
+    "price": 480,
+    "yajin": 1,
+    "brand": "传祺",
+    "newing": "九成新"
+  },
+  {
+    "describe": 2,
+    "title": "租车,蔚来ET5T",
+    "url": "../../asset/uploads/goodrent/2.jpg",
+    "price": 500,
+    "yajin": 1,
+    "brand": "蔚来",
+    "newing": "九成新"
+  },
+  {
+    "describe": 3,
+    "title": "出租露营装备",
+    "url": "../../asset/uploads/goodrent/3.jpg",
+    "price": 88.88,
+    "yajin": 300,
+    "brand": "其他",
+    "newing": "全新"
+  },
+  {
+    "describe": 4,
+    "title": "cos出租",
+    "url": "../../asset/uploads/goodrent/4.jpg",
+    "price": 90,
+    "yajin": 300,
+    "brand": "其他",
+    "newing": "九成新"
+  },
+  {
+    "describe": 5,
+    "title": "机器狗出租",
+    "url": "../../asset/uploads/goodrent/5.jpg",
+    "price": 800,
+    "yajin": 10000,
+    "brand": "宇树",
+    "newing": "全新"
+  },
+  {
+    "describe": 6,
+    "title": "本地直播设备租赁",
+    "url": "../../asset/uploads/goodrent/6.jpg",
+    "price": 286,
+    "yajin": 0,
+    "brand": "其他",
+    "newing": "全新"
+  },
+  {
+    "describe": 7,
+    "title": "任天堂Switch2",
+    "url": "../../asset/uploads/goodrent/7.jpg",
+    "price": 13,
+    "yajin": 3000,
+    "brand": "任天堂",
+    "newing": "全新"
+  },
+  {
+    "describe": 8,
+    "title": "免押出租苹果17",
+    "url": "../../asset/uploads/goodrent/8.jpg",
+    "price": 100,
+    "yajin": 0.1,
+    "brand": "Apple",
+    "newing": "全新"
+  },
+  {
+    "describe": 9,
+    "title": "出租拍立得minise",
+    "url": "../../asset/uploads/goodrent/9.jpg",
+    "price": 10,
+    "yajin": 388,
+    "brand": "富士",
+    "newing": "全新"
+  },
+  {
+    "describe": 10,
+    "title": "苹果17租机",
+    "url": "../../asset/uploads/goodrent/10.jpg",
+    "price": 18,
+    "yajin": 1000,
+    "brand": "Apple",
+    "newing": "全新"
+  }
+]

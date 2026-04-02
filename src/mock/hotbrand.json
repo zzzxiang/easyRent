@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "阿迪达斯",
+    "url": "../../asset/uploads/hotbrand/1.png",
+    "to": "/index/g1"
+  },
+  {
+    "id": 2,
+    "name": "乔丹",
+    "url": "../../asset/uploads/hotbrand/2.jpg",
+    "to": "/index/g2"
+  },
+  {
+    "id": 3,
+    "name": "李宁",
+    "url": "../../asset/uploads/hotbrand/3.jpg",
+    "to": "/index/g3"
+  },
+  {
+    "id": 4,
+    "name": "安踏",
+    "url": "../../asset/uploads/hotbrand/4.jpg",
+    "to": "/index/g4"
+  },
+  {
+    "id": 5,
+    "name": "小米",
+    "url": "../../asset/uploads/hotbrand/5.jpg",
+    "to": "/index/g5"
+  },
+  {
+    "id": 6,
+    "name": "华为",
+    "url": "../../asset/uploads/hotbrand/6.jpg",
+    "to": "/index/g6"
+  },
+  {
+    "id": 7,
+    "name": "佳能",
+    "url": "../../asset/uploads/hotbrand/7.jpg",
+    "to": "/index/g7"
+  },
+  {
+    "id": 8,
+    "name": "索尼",
+    "url": "../../asset/uploads/hotbrand/8.jpg",
+    "to": "/index/g8"
+  },
+  {
+    "id": 9,
+    "name": "香奈儿",
+    "url": "../../asset/uploads/hotbrand/9.jpg",
+    "to": "/index/g9"
+  },
+  {
+    "id": 10,
+    "name": "迪奥",
+    "url": "../../asset/uploads/hotbrand/10.jpg",
+    "to": "/index/g10"
+  },
+  {
+    "id": 11,
+    "name": "苹果",
+    "url": "../../asset/uploads/hotbrand/11.jpg",
+    "to": "/index/g11"
+  }
+]

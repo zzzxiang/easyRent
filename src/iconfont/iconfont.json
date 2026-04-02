@@ -1,0 +1,30 @@
+{
+  "id": "5152203",
+  "name": "rent",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "771652",
+      "name": "rent_fill_MT_UI",
+      "font_class": "rentfillmtui",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1163068",
+      "name": "iconfont-15",
+      "font_class": "iconfont15",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1908296",
+      "name": "207 rent",
+      "font_class": "rent",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
