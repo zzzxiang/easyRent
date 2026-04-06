@@ -1,7 +1,9 @@
 <script setup>
 import {ref} from 'vue'
 import { useUserStore } from '@/stores/user'
-const store=useUserStore()
+import { useNavStore } from '@/stores/nav'
+const store2=useNavStore()
+const store1=useUserStore()
 const username=ref()
 const pwd=ref()
 const atext=ref('获取')
@@ -23,8 +25,9 @@ const receive=function(e){
     }
   },1000)
 }
-const keep=(username,pwd)=>{
-  store.keep(username,pwd)
+const submit=(username,pwd)=>{
+  store1.keep(username,pwd)
+  store2.reset()
 }
 </script>
 
@@ -42,7 +45,7 @@ const keep=(username,pwd)=>{
         </ul>
       </div>
       <div class="middle1" v-show="flag==1">
-      <form action="/index" @submit="keep(username,pwd)">
+      <form action="/index" @submit="submit(username,pwd)">
         <input class="username" type="text" placeholder="用户名" required v-model="username">
         <input class="pwd" type="password" placeholder="密码" required v-model="pwd"><br>
         <div class="verify">

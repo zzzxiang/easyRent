@@ -1,7 +1,9 @@
 <script setup>
-import { useUserStore } from '@/stores/user'
-const store=useUserStore()
 import {ref} from 'vue'
+import { useUserStore } from '@/stores/user'
+import { useNavStore } from '@/stores/nav'
+const store1=useUserStore()
+const store2=useNavStore()
 const username=ref()
 const pwd=ref()
 const atext=ref('发送验证码')
@@ -64,7 +66,8 @@ const detect=function(e,username,pwd){
     }
     if(flag){
       location.href="/index"
-      store.keep(username,pwd)
+      store1.keep(username,pwd)
+      store2.reset()
     }
   }
   else{

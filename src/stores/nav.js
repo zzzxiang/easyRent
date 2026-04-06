@@ -19,6 +19,13 @@ export const useNavStore = defineStore('nav', {
       this[x] = 'active'
       this.location = '/index/' + x
     },
+    reset() {
+      this.hot = 'active'
+      this.all = null
+      this.message = null
+      this.me = null
+      this.location = '/index'
+    }
   },
   persist: {
     enabled: true,
